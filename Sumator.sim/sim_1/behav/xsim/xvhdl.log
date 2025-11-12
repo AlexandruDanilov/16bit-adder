@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Alexandru/Desktop/Pclp4/Sumator/Sumator.srcs/sources_1/new/full_adder_1bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'full_adder_1bit'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Alexandru/Desktop/Pclp4/Sumator/Sumator.srcs/sim_1/new/tb_full_adder_1bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_full_adder_1bit'
