@@ -1,0 +1,25 @@
+Time resolution is 1 ps
+Note: Starting 16-bit adder simulation...
+Time: 0 ps  Iteration: 0  Process: /tb_full_adder_16bit/stimulus  File: C:/Users/Alexandru/Desktop/Pclp4/Sumator/Sumator.srcs/sim_1/new/tb_full_adder_1bit.vhd
+Note: Test 1 passed: 1 + 2 = 3, Cout='0'
+Time: 20 ns  Iteration: 0  Process: /tb_full_adder_16bit/stimulus  File: C:/Users/Alexandru/Desktop/Pclp4/Sumator/Sumator.srcs/sim_1/new/tb_full_adder_1bit.vhd
+Note: Test 2 passed: 1 + 1 + 1 = 3, Cout='0'
+Time: 40 ns  Iteration: 0  Process: /tb_full_adder_16bit/stimulus  File: C:/Users/Alexandru/Desktop/Pclp4/Sumator/Sumator.srcs/sim_1/new/tb_full_adder_1bit.vhd
+Note: Test 3 passed: 0 + 0 = 0, Cout='0'
+Time: 60 ns  Iteration: 0  Process: /tb_full_adder_16bit/stimulus  File: C:/Users/Alexandru/Desktop/Pclp4/Sumator/Sumator.srcs/sim_1/new/tb_full_adder_1bit.vhd
+Note: Test 4 passed: FFFF + 1 = 0, Cout='1'
+Time: 80 ns  Iteration: 0  Process: /tb_full_adder_16bit/stimulus  File: C:/Users/Alexandru/Desktop/Pclp4/Sumator/Sumator.srcs/sim_1/new/tb_full_adder_1bit.vhd
+Note: Test 5 passed: FFFF + 0 + 1 = 0, Cout='1'
+Time: 100 ns  Iteration: 0  Process: /tb_full_adder_16bit/stimulus  File: C:/Users/Alexandru/Desktop/Pclp4/Sumator/Sumator.srcs/sim_1/new/tb_full_adder_1bit.vhd
+Note: Test 6 passed: 1234 + 5678 = 26796, Cout='0'
+Time: 120 ns  Iteration: 0  Process: /tb_full_adder_16bit/stimulus  File: C:/Users/Alexandru/Desktop/Pclp4/Sumator/Sumator.srcs/sim_1/new/tb_full_adder_1bit.vhd
+Note: Test 7 passed: FFFF + FFFF = 65534, Cout='1'
+Time: 140 ns  Iteration: 0  Process: /tb_full_adder_16bit/stimulus  File: C:/Users/Alexandru/Desktop/Pclp4/Sumator/Sumator.srcs/sim_1/new/tb_full_adder_1bit.vhd
+Note: Test 8 passed: AAAA + 5555 = 65535, Cout='0'
+Time: 160 ns  Iteration: 0  Process: /tb_full_adder_16bit/stimulus  File: C:/Users/Alexandru/Desktop/Pclp4/Sumator/Sumator.srcs/sim_1/new/tb_full_adder_1bit.vhd
+Note: Test 9 passed: 7FFF + 1 = 32768, Cout='0'
+Time: 180 ns  Iteration: 0  Process: /tb_full_adder_16bit/stimulus  File: C:/Users/Alexandru/Desktop/Pclp4/Sumator/Sumator.srcs/sim_1/new/tb_full_adder_1bit.vhd
+Note: Test 10 passed: ABCD + 1234 + 1 = 48642, Cout='0'
+Time: 200 ns  Iteration: 0  Process: /tb_full_adder_16bit/stimulus  File: C:/Users/Alexandru/Desktop/Pclp4/Sumator/Sumator.srcs/sim_1/new/tb_full_adder_1bit.vhd
+Note: All 16-bit adder tests completed!
+Time: 200 ns  Iteration: 0  Process: /tb_full_adder_16bit/stimulus  File: C:/Users/Alexandru/Desktop/Pclp4/Sumator/Sumator.srcs/sim_1/new/tb_full_adder_1bit.vhd
